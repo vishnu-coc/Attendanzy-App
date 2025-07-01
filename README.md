@@ -1,62 +1,81 @@
-# 📘 Attendanzy-App
+# ATTENDANZY-APP
 
-_Empowering Attendance, Elevating Education Everywhere_
+**Empowering Attendance, Elevating Education Everywhere**
 
-![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name) ![Main Language](https://img.shields.io/github/languages/top/your-username/your-repo-name) ![Languages Count](https://img.shields.io/github/languages/count/your-username/your-repo-name)
+![last commit](https://img.shields.io/github/last-commit/vishnu-coc/Attendanzy-App)
+![language dart](https://img.shields.io/badge/dart-72.9%25-blue)
+![languages](https://img.shields.io/github/languages/count/vishnu-coc/Attendanzy-App)
 
 ---
 
-## 🚀 Built with the tools and technologies:
-![Dart](https://img.shields.io/badge/Dart-blue?logo=dart)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle)
-![CMake](https://img.shields.io/badge/CMake-064F8C?logo=cmake)
-![YAML](https://img.shields.io/badge/YAML-CB171E?logo=yaml)
-![Markdown](https://img.shields.io/badge/Markdown-000000?logo=markdown)
+## 🛠️ Built with the tools and technologies:
+
+![JSON](https://img.shields.io/badge/-JSON-informational)
+![Markdown](https://img.shields.io/badge/-Markdown-informational)
+![Swift](https://img.shields.io/badge/-Swift-red)
+![Gradle](https://img.shields.io/badge/-Gradle-blue)
+![Dart](https://img.shields.io/badge/-Dart-blue)
+![C++](https://img.shields.io/badge/-C++-blue)
+![XML](https://img.shields.io/badge/-XML-blue)
+![Flutter](https://img.shields.io/badge/-Flutter-blue)
+![CMake](https://img.shields.io/badge/-CMake-blue)
+![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
+![YAML](https://img.shields.io/badge/-YAML-red)
 
 ---
 
 ## 📚 Table of Contents
+
 - [Overview](#overview)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
+- [Usage](#usage)
+- [Testing](#testing)
 
 ---
 
-## 🔍 Overview
+## 📖 Overview
 
-**Project-Name** is a [Framework]-based [type of application] designed to simplify [purpose] across multiple platforms. Its modular architecture supports features like [feature1], [feature2], and [feature3], all integrated with [database/tool] for seamless data management.
+**Attendanzy-App** is a versatile Flutter-based attendance management system designed to simplify student tracking and administrative tasks across multiple platforms. 
 
-### ✨ Why Project-Name?
+Its modular architecture supports features like:
+- attendance marking
+- student profiles
+- timetable viewing
+- academic calculators
 
-This project aims to deliver a scalable, cross-platform solution for [audience].  
-Core features include:
+All features are integrated with MongoDB for seamless data management.
 
-- 🌐 **Modular Design**: Flexible modules like [attendance], [profiles], [reports], etc.
-- 📱 **Cross-Platform Compatibility**: Works across Android, iOS, web, Windows, macOS.
-- 🛠️ **Developer Tools**: Built-in debugging and performance tuning.
-- 🗃️ **Data Integration**: MongoDB (or your DB) for real-time updates and sync.
-- 🎨 **Rich UI Components**: Interactive components for enhanced UX.
+### 🚀 Why Attendanzy-App?
+
+This project aims to deliver a **scalable**, **cross-platform** solution for educational institutions and developers.  
+
+#### Key Features:
+
+- 🌐 **Modular Design**: Easily customizable and extensible with modules like attendance, profiles, reports, and calculators.
+- 💻 **Cross-Platform Compatibility**: Runs smoothly on Android, iOS, web, Linux, Windows, and macOS.
+- 🛠️ **Developer Tools**: Configurable devtools and analysis rules for debugging, tuning, and enforcement.
+- 📊 **Data Integration**: Uses MongoDB for real-time student info, attendance, and profiles.
+- 🎨 **Rich UI Components**: Interactive UI for attendance, timetable, GPA/CGPA calculations, and more.
 
 ---
 
 ## 🚀 Getting Started
 
-### ✅ Prerequisites
+### 📦 Prerequisites
 
-Make sure you have the following installed:
+Make sure you have the following:
 
 - **Programming Language**: Dart  
-- **Package Managers**: Pub, CMake, Gradle
+- **Package Managers**: `pub`, `cmake`, `gradle`
 
-### 🔧 Installation
+---
 
-Build the project from source:
+### 🛠 Installation
 
-1. **Clone the repository**  
+Build Attendanzy-App from the source:
+
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name
+   git clone https://github.com/vishnu-coc/Attendanzy-App
