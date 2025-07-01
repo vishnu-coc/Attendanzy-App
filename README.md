@@ -1,6 +1,6 @@
 # 📘 Attendanzy-App
 
-_Empowering [Your Purpose], Elevating [Your Domain] Everywhere_
+_Empowering [Attendance], Elevating [Education] Everywhere_
 
 ![Last Commit](https://img.shields.io/github/last-commit/your-username/your-repo-name) ![Main Language](https://img.shields.io/github/languages/top/your-username/your-repo-name) ![Languages Count](https://img.shields.io/github/languages/count/your-username/your-repo-name)
 
