@@ -40,10 +40,10 @@
 **Attendanzy-App** is a versatile Flutter-based attendance management system designed to simplify student tracking and administrative tasks across multiple platforms. 
 
 Its modular architecture supports features like:
-- attendance marking
-- student profiles
-- timetable viewing
-- academic calculators
+- Attendance marking
+- Student profiles
+- Timetable viewing
+- Academic calculators
 
 All features are integrated with MongoDB for seamless data management.
 
