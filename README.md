@@ -12,8 +12,9 @@
 
 
 ![Dart](https://img.shields.io/badge/-Dart-blue)
-
 ![Flutter](https://img.shields.io/badge/-Flutter-blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
+
 
 
 ---
