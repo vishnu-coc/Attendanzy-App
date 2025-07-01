@@ -2,7 +2,7 @@
 
 **Empowering Attendance, Elevating Education Everywhere**
 
-![last commit](https://img.shields.io/github/last-commit/vishnu-coc/Attendanzy-App)
+![Last Commit](https://img.shields.io/badge/Last%20Commit-May-blue)
 ![language dart](https://img.shields.io/badge/dart-72.9%25-blue)
 ![languages](https://img.shields.io/github/languages/count/vishnu-coc/Attendanzy-App)
 
