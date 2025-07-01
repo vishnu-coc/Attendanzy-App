@@ -10,17 +10,11 @@
 
 ## 🛠️ Built with the tools and technologies:
 
-![JSON](https://img.shields.io/badge/-JSON-informational)
-![Markdown](https://img.shields.io/badge/-Markdown-informational)
-![Swift](https://img.shields.io/badge/-Swift-red)
-![Gradle](https://img.shields.io/badge/-Gradle-blue)
+
 ![Dart](https://img.shields.io/badge/-Dart-blue)
-![C++](https://img.shields.io/badge/-C++-blue)
-![XML](https://img.shields.io/badge/-XML-blue)
+
 ![Flutter](https://img.shields.io/badge/-Flutter-blue)
-![CMake](https://img.shields.io/badge/-CMake-blue)
-![Kotlin](https://img.shields.io/badge/-Kotlin-purple)
-![YAML](https://img.shields.io/badge/-YAML-red)
+
 
 ---
 
